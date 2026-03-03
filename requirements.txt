@@ -1,0 +1,11 @@
+pymupdf
+sentence-transformers
+faiss-cpu
+fastapi
+uvicorn
+python-dotenv
+Pydantic
+python-multipart
+numpy
+groq
+orjson
